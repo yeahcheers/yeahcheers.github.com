@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[yeah, cheers!]]></title>
-  <link href="http://yeahcheers.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: octopress | yeah, cheers!]]></title>
+  <link href="http://yeahcheers.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://yeahcheers.github.com/"/>
   <updated>2012-07-09T10:27:32-07:00</updated>
   <id>http://yeahcheers.github.com/</id>
@@ -31,15 +31,6 @@
 <li><code>rake deploy</code></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First]]></title>
-    <link href="http://yeahcheers.github.com/blog/2012/07/06/first/"/>
-    <updated>2012-07-06T12:44:00-07:00</updated>
-    <id>http://yeahcheers.github.com/blog/2012/07/06/first</id>
-    <content type="html"><![CDATA[<p>This is some text. Is it fantastic? It is! It is!</p>
 ]]></content>
   </entry>
   
