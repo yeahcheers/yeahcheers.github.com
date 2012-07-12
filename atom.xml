@@ -4,7 +4,7 @@
   <title><![CDATA[yeah, cheers!]]></title>
   <link href="http://yeahcheers.github.com/atom.xml" rel="self"/>
   <link href="http://yeahcheers.github.com/"/>
-  <updated>2012-07-09T10:27:32-07:00</updated>
+  <updated>2012-07-12T11:28:03-07:00</updated>
   <id>http://yeahcheers.github.com/</id>
   <author>
     <name><![CDATA[yeah, cheers!]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[humpty]]></title>
+    <link href="http://yeahcheers.github.com/blog/2012/07/12/humpty/"/>
+    <updated>2012-07-12T11:22:00-07:00</updated>
+    <id>http://yeahcheers.github.com/blog/2012/07/12/humpty</id>
+    <content type="html"><![CDATA[<p>found raymond&#8217;s humpty rejoinder to ebenezer&#8217;s question of why he doesn&#8217;t return to christine regardless of her vileness, awesome:</p>
+
+<blockquote><p>humpty dumpty sat on a great wall,
+humpty dumpty had a great fall,
+all the king&#8217;s horses and all the king&#8217;s men couldn&#8217;t put humpty together again</p></blockquote>
+
+<p>perhaps better to just mention the last line, and indirectly invoke the rest, still awesome.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Octopress Workflow]]></title>
