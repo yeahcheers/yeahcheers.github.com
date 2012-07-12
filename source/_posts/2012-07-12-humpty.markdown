@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "humpty"
+title: "Humpty"
 date: 2012-07-12 11:22
 comments: true
 categories: reads ebenezer
@@ -8,7 +8,9 @@ categories: reads ebenezer
 found raymond's humpty rejoinder to ebenezer's question of why he doesn't return to christine regardless of her vileness, awesome:
 
 > humpty dumpty sat on a great wall,
+>
 > humpty dumpty had a great fall,
+>
 > all the king's horses and all the king's men couldn't put humpty together again
 
 perhaps better to just mention the last line, and indirectly invoke the rest, still awesome.
